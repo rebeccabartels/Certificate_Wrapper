@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-openssl-cert": "^0.1.41"
+  }
+}
